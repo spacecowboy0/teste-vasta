@@ -1,0 +1,188 @@
+body{
+    width: 1280px;
+}
+
+#logoIMG {
+    position: absolute;
+    top: 23px;
+    left: 71px;
+}
+
+#titulo {
+    position: absolute;
+    top: 99px;
+    left: 70px;
+    font-family: 'Roboto';
+    font-size: 43.99pt;
+    color: #3b3b3b;
+}
+
+#subtitulo {
+    position: absolute;
+    top: 179px;
+    left: 70px;
+    font-family: 'Roboto';
+    font-size: 26.35pt;
+    font-style: normal;
+    color: #3b3b3b;
+}
+
+#botaoBanner {
+    position: absolute;
+    top: 259px;
+    left: 73px;
+    width: 168px;
+    height: 51px;
+    font-family: 'Roboto', regular;
+    font-size: 15.47;
+    color: #ffffff;
+    background-color: #26b522;
+    border: none;
+}
+
+nav{
+    position: absolute;
+    top: 19px;
+    right: 80px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 0 0 28px;
+    font-size: 15pt;
+    font-family: 'Roboto', Bold;
+    color: #172129;
+}
+
+#sobreTitulo {
+    position: absolute;
+    top: 515px;
+    right: 640px;
+    font-family: 'Roboto';
+    font-size: 35pt;
+    color: #172129;
+}
+
+#sobreIMG1 {
+    position: absolute;
+    top: 626px;
+    left: 71px;
+}
+
+#sobreIMG2 {
+    position: absolute;
+    top: 978px;
+    left: 936px;
+}
+
+#trecho1 {
+    width: 715.49px;
+    height: 224.57px;
+    position: absolute;
+    top: 627px;
+    left: 495px;
+    text-align: justify;
+    font-size: 14pt;
+    line-height: 30px;
+}
+
+#trecho2 {
+    width: 829.3px;
+    height: 222.8px;
+    position: absolute;
+    top: 980px;
+    left: 70px;
+    text-align: justify;
+    font-size: 14pt;
+    line-height: 30px;
+}
+
+#buttonSaiba {
+    position: absolute;
+    top: 881px;
+    left: 491px;
+    width: 162.74;
+    height: 44px;
+    font-family: 'Roboto', regular;
+    font-size: 15.47;
+    color: #ffffff;
+    background-color: #587292;
+    border: none;
+}
+
+#portfolioTitulo{
+    position: absolute;
+    top: 1244px;
+    left: 495px;
+    font-family: 'Roboto';
+    font-size: 35pt;
+    color: #172129;    
+}
+
+#port1 {
+    position: absolute;
+    top: 1339px;
+    left: 135px;    
+}
+
+#port2 {
+    position: absolute;
+    top: 1339px;
+    left: 485px;
+}
+
+#port3 {
+    position: absolute;
+    top: 1339px;
+    left: 836px;
+}
+
+#port4 {
+    position: absolute;
+    top: 1569px;
+    left: 135px;
+}
+
+#port5 {
+    position: absolute;
+    top: 1569px;
+    left: 481px;
+}
+
+#port6 {
+    position: absolute;
+    top: 1569px;
+    left: 835px;
+}
+
+#carregar {
+    position: absolute;
+    top: 1800px;
+    left: 526px;
+    width: 238px;
+    height: 54px;
+    font-family: 'Roboto', regular;
+    font-size: 10pt;
+    color: #ffffff;
+    background-color: #587292;
+    border: none;
+}
+
+#depoimentosTitulo {
+    position: absolute;
+    top: 1900px;
+    right: 514px;
+    font-family: 'Roboto';
+    font-size: 35pt;
+    color: #172129;
+}
+
+#depoimentosBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
